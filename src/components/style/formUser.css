@@ -44,7 +44,7 @@
     margin-top: 1.5em;
     padding: 0.8em;
     color: white;
-    background-color: #555A88;
+    background-color: rgb(66, 243, 66);
     font-size: 1.1rem;
     transition: filter 100ms ease;
     cursor: pointer;
