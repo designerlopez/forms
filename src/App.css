@@ -11,7 +11,7 @@
     font-size: 1.5rem;
     color: white;
     padding: .5em 1em;
-    background-color: #555A88;
+    background-color: #067e34;
     margin: 1rem;
 }
 .form-container{
@@ -19,7 +19,7 @@
     width: 100%;
     max-width: 1200px;
     min-height: 100vh;
-    background-color: #0002;
+    background-color: #067e34;
     z-index: 100;
     top: 0;
     display: flex;
