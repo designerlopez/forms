@@ -6,7 +6,7 @@ const UserCard = ({user, deleteUserById, setUpdateInfo, setOpenForm}) => {
     
     const handleEdit = () => {
         setUpdateInfo(user)
-        setOpenForm(false)
+        setOpenForm(true)
     }
 
   return (
